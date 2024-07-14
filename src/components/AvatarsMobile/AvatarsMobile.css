@@ -1,0 +1,14 @@
+.my-name-avatar {
+    cursor: default;
+}
+.d-ia-mobile {
+    font-family: Georgia;
+    font-size: 20px;
+}
+.header-mobile {
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+}

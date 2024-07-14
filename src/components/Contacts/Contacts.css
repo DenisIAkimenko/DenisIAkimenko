@@ -1,0 +1,68 @@
+
+.main-page-avatar {
+    margin: 0 30px;
+    height: 100%;
+    /*display: flex;*/
+    /*flex-direction: column;*/
+    /*justify-content: space-between;*/
+    /*height: 100vh; !* Добавляем высоту контейнера на весь экран *!*/
+}
+
+.avatar-title {
+    text-align: center;
+}
+
+.my-name-avatar {
+    cursor: default;
+}
+
+/*//////*/
+
+.title {
+    font-family: Georgia;
+    font-size: 43px;
+}
+
+.video-avatar-denis {
+    height: 400px;
+}
+
+.video-avatar-fat {
+    height: 300px;
+}
+.frame-avatar {
+    margin: 0 30px;
+}
+
+.contact-text {
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.video-avatar-inst {
+    height: 400px;
+}
+.mail-block {
+    margin: 50px 30px 595px 30px;
+    font-size: 20px;
+    text-align: center;
+}
+.text-card {
+    font-size: 16px;
+}
+.frame-avatar-text {
+    margin: 0 30px;
+    width: 280px;
+    text-align: center;
+}
+.price {
+    font-size: 20px;
+}
+.button {
+    height: 40px;
+    width: 150px;
+    margin-top: 20px;
+    font-size: 20px;
+    background-color: darkseagreen;
+}
