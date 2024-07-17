@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/iakimenko.com/static/css/main.2c3db180.css",
+    "main.js": "/iakimenko.com/static/js/main.e51945bc.js",
+    "static/media/avatar-denis.mp4": "/iakimenko.com/static/media/avatar-denis.24a72986a98841023902.mp4",
+    "static/media/instagr.mp4": "/iakimenko.com/static/media/instagr.ebfc6756b837ffc19fb8.mp4",
+    "static/media/therd.MP4": "/iakimenko.com/static/media/therd.b51eed2790a1b952d04a.MP4",
+    "static/media/iam.png": "/iakimenko.com/static/media/iam.28b3b3e22769ee4af6f7.png",
+    "static/media/video-developer.mp4": "/iakimenko.com/static/media/video-developer.61f3f93671dbfad824d4.mp4",
+    "index.html": "/iakimenko.com/index.html",
+    "main.2c3db180.css.map": "/iakimenko.com/static/css/main.2c3db180.css.map",
+    "main.e51945bc.js.map": "/iakimenko.com/static/js/main.e51945bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c3db180.css",
+    "static/js/main.e51945bc.js"
+  ]
+}
