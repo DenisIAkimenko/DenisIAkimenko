@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/DenisIAkimenko/static/css/main.2c3db180.css",
-    "main.js": "/DenisIAkimenko/static/js/main.635c3b1c.js",
-    "static/media/avatar-denis.mp4": "/DenisIAkimenko/static/media/avatar-denis.24a72986a98841023902.mp4",
-    "static/media/instagr.mp4": "/DenisIAkimenko/static/media/instagr.ebfc6756b837ffc19fb8.mp4",
-    "static/media/therd.MP4": "/DenisIAkimenko/static/media/therd.b51eed2790a1b952d04a.MP4",
-    "static/media/iam.png": "/DenisIAkimenko/static/media/iam.28b3b3e22769ee4af6f7.png",
-    "static/media/video-developer.mp4": "/DenisIAkimenko/static/media/video-developer.61f3f93671dbfad824d4.mp4",
-    "index.html": "/DenisIAkimenko/index.html",
-    "main.2c3db180.css.map": "/DenisIAkimenko/static/css/main.2c3db180.css.map",
-    "main.635c3b1c.js.map": "/DenisIAkimenko/static/js/main.635c3b1c.js.map"
+    "main.css": "/iakimenko/static/css/main.2c3db180.css",
+    "main.js": "/iakimenko/static/js/main.edd3d599.js",
+    "static/media/avatar-denis.mp4": "/iakimenko/static/media/avatar-denis.24a72986a98841023902.mp4",
+    "static/media/instagr.mp4": "/iakimenko/static/media/instagr.ebfc6756b837ffc19fb8.mp4",
+    "static/media/therd.MP4": "/iakimenko/static/media/therd.b51eed2790a1b952d04a.MP4",
+    "static/media/iam.png": "/iakimenko/static/media/iam.28b3b3e22769ee4af6f7.png",
+    "static/media/video-developer.mp4": "/iakimenko/static/media/video-developer.61f3f93671dbfad824d4.mp4",
+    "index.html": "/iakimenko/index.html",
+    "main.2c3db180.css.map": "/iakimenko/static/css/main.2c3db180.css.map",
+    "main.edd3d599.js.map": "/iakimenko/static/js/main.edd3d599.js.map"
   },
   "entrypoints": [
     "static/css/main.2c3db180.css",
-    "static/js/main.635c3b1c.js"
+    "static/js/main.edd3d599.js"
   ]
 }
